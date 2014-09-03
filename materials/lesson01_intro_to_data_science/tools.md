@@ -39,22 +39,6 @@ For each, you can go as deep as you need to feel comfortable:
  * [Pro Git](http://git-scm.com/book)
 
 
-## `R`
-
-### Install
-
- * Install the appropriate `R` distribution for your system from this [mirror](http://watson.nci.nih.gov/cran_mirror/).
- * Install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop) for `R`. The RStudio site should suggest an appropriate package for your system.
-
-### Gentle Introduction
-
- * If you're not familiar with `R`, the [Try R](http://tryr.codeschool.com/) tutorial will take you through an interactive introductory course of an hour or so, all in your browser.
-
-### Deeper Dive
-
-* [Advanced R Programming](http://adv-r.had.co.nz/)
-
-
 ## `python`
 
 ### Install
