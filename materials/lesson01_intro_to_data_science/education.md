@@ -1,3 +1,9 @@
+---
+layout: page
+title: 
+description:
+type: material
+---
 # Some thoughts on learning
 
 

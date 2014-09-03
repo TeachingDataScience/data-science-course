@@ -1,3 +1,9 @@
+---
+layout: page
+title: 
+description:
+type: material
+---
 # Data Science and Data Scientists
 
 These resources help to explain what people talk about when they talk about data science and data scientists. People aren't always talking about the same things.
