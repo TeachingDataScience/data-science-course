@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "materials/lesson01_intro_to_data_science/index.md",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/User/scratchpad.sublime-build",
 	"command_palette":
@@ -160,8 +152,23 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials"
+	],
 	"file_history":
 	[
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/index.html",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/lab_01a.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/tools.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/README.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/data_science.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/education.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/index.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson12_probability_naive_bayes/index.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson12_probability_naive_bayes/AdditionNBNotes.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/yet_more_data_science.md",
+		"/Users/dave/repos/gads/GADS13/data-science-course/materials/lesson01_intro_to_data_science/yet_more_tools.md",
 		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Scratch/Scratchpad.rst",
 		"/Users/dave/repos/client/tradeblock/xbx/docs/index.rst",
 		"/Users/dave/repos/client/tradeblock/xbx/docs/conf.py",
@@ -369,39 +376,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "materials/lesson01_intro_to_data_science/index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "markdown",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -482,6 +458,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -489,7 +466,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 165.0,
+	"side_bar_width": 185.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

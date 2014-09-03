@@ -15,6 +15,8 @@ type: material
 
 ## During
 
+* [Slides](lec01.pdf)
+
 ### What is this?
 * Who are we?
 * What is [data science](data_science)?
