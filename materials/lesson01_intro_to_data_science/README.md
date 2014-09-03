@@ -1,3 +1,10 @@
+---
+layout: page
+title: Preliminaries
+description:
+type: material
+---
+
 # Preliminaries
 
 To become more familiar with the tools that we'll focus on, consult [tools.md](tools.md).
