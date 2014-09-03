@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "materials/lesson01_intro_to_data_science/index.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/scratchpad.sublime-build",
+	"command_palette":
+	{
+		"height": 183.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"ta",
+				"Table Editor: Show demo film in new scratch view"
+			],
+			[
+				"tab",
+				"Table Editor: Set table syntax 'reStructuredText' for current view"
+			],
+			[
+				"date",
+				"InsertDate: Default"
+			],
+			[
+				"insert ",
+				"InsertDate: Default"
+			],
+			[
+				"insert",
+				"InsertDate: Custom"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"table",
+				"Table Editor: Show demo film in new scratch view"
+			],
+			[
+				"Tabl",
+				"Table Editor: Set table syntax 'reStructuredText' for current view"
+			],
+			[
+				"ins",
+				"InsertDate: Custom"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Table",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"Insal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 554.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"wordCount()",
+			"wordCount",
+			"w",
+			"wordCount",
+			"Wordcount",
+			"wordcount",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Scratch/Scratchpad.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/index.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/conf.py",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/Makefile",
+		"/Users/dave/repos/gads/GADS13/gadsdc/00-preliminaries/data_science.md",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/XBX_Features.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/metrics.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/data_description.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/metrics_principles.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/Scale_Internal_XBX_Project_Notes.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/code.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/background/background.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/todos.rst",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/update_exchange_rate.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/start_scripts.sh",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/modules/xbxlib.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/aws.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/bitfinex.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/dump_orderbook_snapshot_for_pair.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/dump_orderbooks_day_for_pair.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/exchange_api_snapshot.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/mysqlCreds.json",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/btceapi/public.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/btceapi/keyhandler.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/btceapi/scraping.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/bitcoin_markets/settings20130903.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/orderbook.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/README.md",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/update_coinsetter.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/btceapi/trade.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/bitcoin_markets/settings.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/markets/templates/heartbeat.html",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/markets/models.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/markets/views.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/markets/views.py.20140308",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/dump_to_db.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_sa_repo/tb_markets_082714/django_app/manage.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_repo/modules/xbxlib.py",
+		"/Users/dave/repos/client/tradeblock/xbx/xbx_repo/xbx_data_exploration.ipynb",
+		"/Users/dave/repos/client/tradeblock/xbx/docs/background/code.rst",
+		"/Users/dave/Desktop/jtcowell_skillseq.csv",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Scratch/scratchpad.sublime-project",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Scratch/Chris Mazzei Call",
+		"/Users/dave/repos/datavizlibraries/metrics-graphics-0.2.0/data/split_by_mod_resaved.json",
+		"/Users/dave/repos/datavizlibraries/metrics-graphics-0.2.0/data/split_by.json",
+		"/Users/dave/repos/datavizlibraries/metrics-graphics-0.2.0/data/split_by_mod_clean.json",
+		"/Users/dave/repos/datavizlibraries/metrics-graphics-0.2.0/data/split_by_mod.json",
+		"/Users/dave/repos/datavizlibraries/metrics-graphics-0.2.0/js/metrics-graphics.js",
+		"/Users/dave/repos/datavizlibraries/metrics-graphics-0.2.0/index.html",
+		"/Users/dave/repos/datavizlibraries/metrics-graphics-0.2.0/js/main.js",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/pages/frontpage.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/publishconf.py",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Journal/AllDayInterviewPrep.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Journal/notes-on-development-instructional-ga.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Journal/sink_holes.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Projects/skillseq_codejournal.rst",
+		"/Users/dave/repos/client/eq/eqrepo/code/MAIN_101/code/modules/simlib.py",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Projects/Wendy-and-Pierre's-Wedding.rst",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/sublime-rst-completion/Default (OSX).sublime-keymap",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/RestructuredText Improved/README.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Journal/skillseq_codejournal.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/pelicanconf.py",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Journal/MedowsConversation.rst",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/User/scratchpad.sublime-build",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/scratchpad.sublime-project",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Journal/Tuesday-072214.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Roadmap/Time-Management-Workflow.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/Makefile",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/Roadmap/Roadmap.rst",
+		"/Users/dave/scratch/scratchpad.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/scratchpad.rst",
+		"/Users/dave/Dropbox/Journaling/Scratchpad/content/scratchpad2.rst",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/User/pelican.sublime-snippet",
+		"/Users/dave/repos/client/eq/eqrepo/code/MAIN_101/sphinxdocs/source/similarity.rst",
+		"/Users/dave/repos/client/eq/eqrepo/code/MAIN_101/sphinxdocs/source/code.rst",
+		"/Users/dave/repos/client/eq/eqrepo/code/MAIN_101/sphinxdocs/source/conf.py",
+		"/Users/dave/Desktop/classlist.csv",
+		"/Users/dave/Desktop/NYFASHIONLAB.rst",
+		"/Users/dave/repos/client/eq/eqrepo/code/MAIN/source/rawnotes.rst",
+		"/Users/dave/scratch/scratchpad.md",
+		"/Users/dave/repos/datamonsterassemble/README.md",
+		"/Users/dave/scratch/ICEX_Enterprise_Notes.rst",
+		"/Users/dave/scratch/JNL.md",
+		"/Users/dave/repos/jekyll/courseblog/_config.yml",
+		"/Users/dave/repos/jekyll/courseblog/_includes/sidebar.html",
+		"/Users/dave/repos/jekyll/courseblog/index.html",
+		"/Users/dave/repos/jekyll/courseblog/_drafts/site-tech-notes.md",
+		"/Users/dave/repos/jekyll/courseblog/_layouts/default.html",
+		"/Users/dave/repos/jekyll/courseblog/Rakefile",
+		"/Users/dave/repos/jekyll/courseblog/_drafts/Rakefile",
+		"/Users/dave/repos/jekyll/courseblog/site-tech-notes.md",
+		"/Users/dave/repos/jekyll/cblog/_posts/2014-06-24-welcome-to-jekyll.markdown",
+		"/Users/dave/repos/jekyll/cblog/_posts/2014-06-24-working-with-jekyll.md",
+		"/Users/dave/repos/jekyll/cblog/_posts/2014-06-24-amazing-presentations.md",
+		"/Users/dave/Desktop/FInal GA Class/davefinalnotes.md",
+		"/Users/dave/repos/jekyll/courseblog/_includes/head.html",
+		"/Users/dave/repos/jekyll/courseblog/_layouts/post.html",
+		"/Users/dave/repos/jekyll/courseblog/_posts/2014-5-25-Hello-World.md",
+		"/Users/dave/Scale Google Drive/A Scale Consulting/Active Clients/General Assembly/Enterprise/Enterprise Writing/062214_GA_BlogPost.txt",
+		"/Users/dave/scratch/JNL_commandE.md",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/dave/repos/markdown_extra_stuff/avenir-white.css",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/dave/repos/gads/GADS9-NYC-Spring2014-Teachers/lessons/lesson17_flask/lyricsapp_skeleton/lyricsapp.py",
+		"/Users/dave/repos/gads/GADS9-NYC-Spring2014-Teachers/lessons/lesson17_flask/solution_lyricsapp/lyrics_classifier.py",
+		"/Users/dave/Library/Application Support/Mou/Themes/DataMonsterDark.txt",
+		"/Users/dave/Library/Application Support/Mou/Themes/Tomorrow.txt",
+		"/Users/dave/Library/Application Support/Mou/Themes/DataMonsterDark.css",
+		"/Users/dave/Desktop/Neural_Networks.md",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"todo",
+			"impactful",
+			"manipul",
+			"precision",
+			"liquidity match",
+			"precision",
+			"liquidity",
+			"todo_include",
+			"True",
+			"sphinx",
+			"InternalTimeLogs V2",
+			"data_mod",
+			"modified",
+			".json",
+			"split_by_data",
+			"gt",
+			"except",
+			"_2",
+			"levenshtein",
+			"phrase_to",
+			"granul",
+			"wordnet",
+			"wordnet_check",
+			"nltk",
+			"(?)",
+			"forever",
+			"+++",
+			"^^^^^",
+			"get_fu",
+			"get_fuzzy",
+			"get_best",
+			"get_best_course",
+			"get_best_",
+			"\\(.*",
+			"def ",
+			"autodoc",
+			", ",
+			"Food!!\n\nNeed to somewhere and eat and work.\n\nThis place is, admittedly, pretty f*ing good.\n\nThis is a good reason to actually setup GCT tonight.\n\nShould avoid home and let that be NS lair.\n\nSo?\n",
+			"]",
+			"[",
+			"send the",
+			"get_db",
+			"vectorizer",
+			"getLabel",
+			"pass",
+			"makeArtist",
+			"Artist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"major",
+			"HoursLog",
+			"",
+			"\\n",
+			"Food!!\n\nNeed to somewhere and eat and work.\n\nThis place is, admittedly, pretty f*ing good.\n\nThis is a good reason to actually setup GCT tonight.\n\nShould avoid home and let that be NS lair.\n\nSo?\n",
+			"ood!!\n\nNeed to somewhere and eat and work.\n\nThis place is, admittedly, pretty f*ing good.\n\nThis is a good reason to actually setup GCT tonight.\n\nShould avoid home and let that be NS lair.\n\nSo?\n\n",
+			"",
+			"Days: ",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "materials/lesson01_intro_to_data_science/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "markdown",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.crypto_error":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"project": "data-science-course.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
