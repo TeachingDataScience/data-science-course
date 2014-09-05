@@ -14,7 +14,7 @@ permalink: /syllabus/
 
 **9/17/2014** : Experimental Design
 
-**9/22/2014** : Matplotlib EDA
+**9/22/2014** : Matplotlib and EDA
 
 **9/24/2014** : Maps
 
@@ -32,7 +32,7 @@ permalink: /syllabus/
 
 **10/20/2014** : Logistic Regression
 
-**10/22/2014** : Decision Trees Random Forests
+**10/22/2014** : Decision Trees and Random Forests
 
 **10/27/2014** : PCA
 
