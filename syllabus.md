@@ -1,3 +1,9 @@
+---
+layout: page
+title: Syllabus
+permalink: /syllabus/
+---
+
 **9/3/2014** : Introduction To Data Science
 
 **9/8/2014** : Data Collection And Extraction
