@@ -2,7 +2,7 @@
 
 You may already have data that you're interested in working with. You may have an idea for scraping web data from some source, or for using data from an API such as Twitter's. There are lots of sources of data!
 
-* Dave and Ed's Favorites for Practice
+ * Dave and Ed's Favorites for Practice
      * http://vincentarelbundock.github.io/Rdatasets/datasets.html Great, clean list of CSV's for training
   
 
@@ -31,6 +31,8 @@ You may already have data that you're interested in working with. You may have a
  * [Donors Choose](http://data.donorschoose.org/) makes quite a lot of data available which could be interesting.
  * [The Echo Nest](http://the.echonest.com/) has some interesting music data with an API that could be interesting.
  * If you're interested in working with a large data set, Amazon has a variety of [public data sets](http://aws.amazon.com/publicdatasets/) that are available through their infrastructure, including Common Crawl and 1000 Genomes.
+ * http://api.opencorporates.com/
+ 
 
  * There are also various APIs out there.
      * [twitter](https://dev.twitter.com/), of course
